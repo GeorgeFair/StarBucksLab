@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-  background: #5481E5;
+  background: #4DF05C;
   color: white;
   padding: 40px;
   text-align: center;
@@ -21,7 +21,7 @@ body {
 }
 
 .card {
-  background: #5481E5;
+  background: #4DF05C;
   color: white;
   border: 2px solid white;
   border-radius: 10px;
@@ -33,7 +33,7 @@ body {
 
 .button {
   background-color: white;
-  color: #5481E5;
+  color: #4DF05C;
   padding: 10px 15px;
   border-radius: 5px;
   text-decoration: none;
@@ -76,7 +76,7 @@ body {
 }
 
 .flip_card_back {
-  background-color: #2980b9;
+  background-color: #4DF05C;
   color: white;
   transform: rotateY(180deg);
   text-align: center;
